@@ -5,3 +5,5 @@
 
 二、[《如何判断2个类型是否相等》](https://github.com/lmxyjy/blogs/issues/2)
 
+三、[《联合类型如何转交叉类型》](https://github.com/lmxyjy/blogs/issues/3)
+
