@@ -7,3 +7,4 @@
 
 三、[《联合类型如何转交叉类型》](https://github.com/lmxyjy/blogs/issues/3)
 
+三、[《关于类型兼容》](https://github.com/lmxyjy/blogs/issues/4)
