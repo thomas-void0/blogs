@@ -14,3 +14,5 @@
 一、[《关于CreateElement》](https://github.com/lmxyjy/blogs/issues/5)
 
 ## javaScript:
+一、[《Object.is与===》](https://github.com/lmxyjy/blogs/issues/6)
+
