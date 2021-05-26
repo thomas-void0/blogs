@@ -16,3 +16,5 @@
 ## javaScript:
 一、[《Object.is与===》](https://github.com/lmxyjy/blogs/issues/6)
 
+## 算法记录
+一、[《冒泡排序》](https://github.com/lmxyjy/blogs/issues/7)
