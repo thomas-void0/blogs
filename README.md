@@ -12,7 +12,8 @@
 
 ## react:
 一、[《关于CreateElement》](https://github.com/lmxyjy/blogs/issues/5)
-一、[《关于BeginWork》](https://github.com/lmxyjy/blogs/issues/8) (未完成)
+
+二、[《关于BeginWork》](https://github.com/lmxyjy/blogs/issues/8) (未完成)
 
 ## javaScript:
 一、[《Object.is与===》](https://github.com/lmxyjy/blogs/issues/6)
