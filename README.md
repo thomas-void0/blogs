@@ -1,5 +1,8 @@
 # my blog
 
+## javaScript:
+一、[《Object.is与===》](https://github.com/lmxyjy/blogs/issues/6)
+
 ## typescript:
 
 一、[《tsconfig.json 文件配置速查表》](https://github.com/lmxyjy/blogs/issues/1)
@@ -15,12 +18,11 @@
 
 二、[《关于BeginWork》](https://github.com/lmxyjy/blogs/issues/8) (未完成)
 
-## javaScript:
-一、[《Object.is与===》](https://github.com/lmxyjy/blogs/issues/6)
-
 ## 算法记录
 一、[《冒泡排序》](https://github.com/lmxyjy/blogs/issues/7)
 
 二、[《选择排序》](https://github.com/lmxyjy/blogs/issues/9)
 
 三、[《插入排序》](https://github.com/lmxyjy/blogs/issues/10)
+
+## 数据结构
