@@ -20,3 +20,5 @@
 
 ## 算法记录
 一、[《冒泡排序》](https://github.com/lmxyjy/blogs/issues/7)
+
+二、[《选择排序》](https://github.com/lmxyjy/blogs/issues/9)
