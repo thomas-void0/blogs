@@ -25,4 +25,6 @@
 
 三、[《插入排序》](https://github.com/lmxyjy/blogs/issues/10)
 
+四、[《堆排序》](https://github.com/lmxyjy/blogs/issues/11)
+
 ## 数据结构
