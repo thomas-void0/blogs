@@ -27,7 +27,7 @@
 
 四、[《堆排序》](https://github.com/lmxyjy/blogs/issues/11)
 
-[《更多...》](https://github.com/lmxyjy/algorithm)
+[更多...](https://github.com/lmxyjy/algorithm)
 
 ## 数据结构
 一、[《堆的基本概念&模拟实现》](https://github.com/lmxyjy/blogs/issues/12)
