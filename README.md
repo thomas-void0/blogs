@@ -18,7 +18,7 @@
 
 <!-- 二、[《关于BeginWork》](https://github.com/lmxyjy/blogs/issues/8) (未完成) -->
 
-## 算法记录
+## 算法记录 & 数据结构
 一、[《冒泡排序》](https://github.com/lmxyjy/blogs/issues/7)
 
 二、[《选择排序》](https://github.com/lmxyjy/blogs/issues/9)
@@ -27,7 +27,6 @@
 
 四、[《堆排序》](https://github.com/lmxyjy/blogs/issues/11)
 
-[更多...](https://github.com/lmxyjy/algorithm)
+五、[《堆的基本概念&模拟实现》](https://github.com/lmxyjy/blogs/issues/12)
 
-## 数据结构
-一、[《堆的基本概念&模拟实现》](https://github.com/lmxyjy/blogs/issues/12)
+[查看更多...](https://github.com/lmxyjy/algorithm)
