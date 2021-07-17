@@ -16,7 +16,7 @@
 ## react:
 一、[《关于CreateElement》](https://github.com/lmxyjy/blogs/issues/5)
 
-<!-- 二、[《关于BeginWork》](https://github.com/lmxyjy/blogs/issues/8) (未完成) -->
+二、[《关于beginWork的主要流程》](https://github.com/lmxyjy/blogs/issues/8)
 
 ## 算法记录 & 数据结构
 一、[《冒泡排序》](https://github.com/lmxyjy/blogs/issues/7)
