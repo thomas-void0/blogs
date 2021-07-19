@@ -18,6 +18,8 @@
 
 二、[《关于beginWork的主要流程》](https://github.com/lmxyjy/blogs/issues/8)
 
+三、[《关于completeWork的主要流程》](https://github.com/lmxyjy/blogs/issues/13)
+
 ## 算法记录 & 数据结构
 一、[《冒泡排序》](https://github.com/lmxyjy/blogs/issues/7)
 
