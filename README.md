@@ -32,3 +32,6 @@
 五、[《堆的基本概念&模拟实现》](https://github.com/lmxyjy/blogs/issues/12)
 
 [查看更多...](https://github.com/lmxyjy/algorithm)
+
+## 问题记录
+[解决图片加载403](https://github.com/lmxyjy/blogs/issues/14)
