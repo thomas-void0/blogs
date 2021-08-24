@@ -20,7 +20,7 @@
 
 三、[《关于completeWork的主要流程》](https://github.com/lmxyjy/blogs/issues/13)
 
-[《使用Recoil管理项目状态》](https://github.com/lmxyjy/blogs/issues/15)
+[使用Recoil管理项目状态](https://github.com/lmxyjy/blogs/issues/15)
 
 ## 算法记录 & 数据结构
 一、[《冒泡排序》](https://github.com/lmxyjy/blogs/issues/7)
