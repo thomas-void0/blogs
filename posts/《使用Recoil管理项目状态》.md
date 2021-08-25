@@ -23,6 +23,7 @@ const selectorState = selector({
     }
 })
 ```
+3. `Loadable`:`Loadable`对象代表 Recoil atom 或 selector 的当前状态。
 
 # 三、使用recoil实现一个todoList
 
