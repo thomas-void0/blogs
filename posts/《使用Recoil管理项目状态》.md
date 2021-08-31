@@ -23,6 +23,7 @@ const selectorState = selector({
     }
 })
 ```
+当`selector`没有指定set方法的时候，默认是只读的，没有办法对其进行赋值。
 3. `Loadable`:`Loadable`对象代表 Recoil atom 或 selector 的当前状态。能够对这个对象返回的状态进行一些自己的处理，比如状态还在loading的时候就显示loading过渡等等。
 ```ts
 function UserInfo({userID}) {
@@ -43,6 +44,26 @@ function UserInfo({userID}) {
 const [state, setState] = useRecoilState(state的名称);
 ```
 
+5. `useRecoilValue`:当只需要读一个值，而不需要写的时候可以使用useRecoilValue。
+```ts
+const names = useRecoilValue(namesState);
+```
+
+6. `useSetRecoilState`:返回一个 setter 函数，用来更新可写 Recoil state 的值。返回一个可以用来异步改变 state 的 setter 函数。可以传给此 setter 函数一个新的值，也可以传入一个更新函数，此函数接受上一次的值作为其参数。
+```ts
+const setNamesState = useSetRecoilState(namesState);
+```
+> 当一个组件需要写入而不需要读取 state 时，推荐使用此 hook。如果组件使用了 useRecoilState() 来获取 setter 函数，那么同时它也会订阅更新，并在 atom 或 selector 更新时重新渲染。使用 useSetRecoilState() 允许组件在值发生改变时而不用给组件订阅重新渲染的情况下设置值。
+
+7. `useResetRecoilState`:返回一个函数，用来把给定 state 重置为其初始值。
+```ts
+const TodoResetButton = () => {
+  const resetList = useResetRecoilState(todoListState);
+  return <button onClick={resetList}>Reset</button>;
+};
+```
+
+> 使用 useResetRecoilState() 可将组件的 state 重置为默认值，无需订阅组件，并且每当 state 改变时会重新渲染该组件。
 # 三、使用recoil实现一个todoList
 
 # 四、recoil、context、redux三者之间的对比
