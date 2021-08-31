@@ -23,7 +23,20 @@ const selectorState = selector({
     }
 })
 ```
-3. `Loadable`:`Loadable`对象代表 Recoil atom 或 selector 的当前状态。
+3. `Loadable`:`Loadable`对象代表 Recoil atom 或 selector 的当前状态。能够对这个对象返回的状态进行一些自己的处理，比如状态还在loading的时候就显示loading过渡等等。
+```ts
+function UserInfo({userID}) {
+  const userNameLoadable = useRecoilValueLoadable(userNameQuery(userID));
+  switch (userNameLoadable.state) {
+    case 'hasValue':
+      return <div>{userNameLoadable.contents}</div>;
+    case 'loading':
+      return <div>Loading...</div>;
+    case 'hasError':
+      throw userNameLoadable.contents;
+  }
+}
+```
 
 # 三、使用recoil实现一个todoList
 
