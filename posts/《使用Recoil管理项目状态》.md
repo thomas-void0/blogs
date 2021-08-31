@@ -64,6 +64,8 @@ const TodoResetButton = () => {
 ```
 
 > 使用 useResetRecoilState() 可将组件的 state 重置为默认值，无需订阅组件，并且每当 state 改变时会重新渲染该组件。
+
+8. `isRecoilValue`:如果 value 是一个 atom 或者 selector 则返回 true，反之，返回 false。
 # 三、使用recoil实现一个todoList
 
 # 四、recoil、context、redux三者之间的对比
