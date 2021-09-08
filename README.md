@@ -23,15 +23,15 @@
 [使用Recoil管理项目状态](https://github.com/lmxyjy/blogs/issues/15)
 
 ## 算法记录 & 数据结构
-一、[《冒泡排序》](https://github.com/lmxyjy/blogs/issues/7)
+[《冒泡排序》](https://github.com/lmxyjy/blogs/issues/7)
 
-二、[《选择排序》](https://github.com/lmxyjy/blogs/issues/9)
+[《选择排序》](https://github.com/lmxyjy/blogs/issues/9)
 
-三、[《插入排序》](https://github.com/lmxyjy/blogs/issues/10)
+[《插入排序》](https://github.com/lmxyjy/blogs/issues/10)
 
-四、[《堆排序》](https://github.com/lmxyjy/blogs/issues/11)
+[《堆排序》](https://github.com/lmxyjy/blogs/issues/11)
 
-五、[《堆的基本概念&模拟实现》](https://github.com/lmxyjy/blogs/issues/12)
+[《堆的基本概念&模拟实现》](https://github.com/lmxyjy/blogs/issues/12)
 
 [查看更多...](https://github.com/lmxyjy/algorithm)
 
