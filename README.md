@@ -42,5 +42,6 @@
 
 [macos安装brew报错443](https://github.com/lmxyjy/blogs/issues/17)
 
+## 其他
 [macos终端美化](https://github.com/lmxyjy/blogs/issues/18)
 
