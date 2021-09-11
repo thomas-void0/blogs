@@ -41,3 +41,6 @@
 [yarn start启动项目报错events.js 292](https://github.com/lmxyjy/blogs/issues/16)
 
 [macos安装brew报错443](https://github.com/lmxyjy/blogs/issues/17)
+
+[macos终端美化](https://github.com/lmxyjy/blogs/issues/18)
+
