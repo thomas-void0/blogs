@@ -42,6 +42,8 @@
 
 [macos安装brew报错443](https://github.com/lmxyjy/blogs/issues/17)
 
+[git add 文件被删除后如何恢复](https://github.com/lmxyjy/blogs/issues/20)
+
 ## css
 [一个div放多张背景图](https://github.com/lmxyjy/blogs/issues/19)
 
