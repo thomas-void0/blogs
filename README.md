@@ -42,6 +42,9 @@
 
 [macos安装brew报错443](https://github.com/lmxyjy/blogs/issues/17)
 
+## css
+[一个div放多张背景图](https://github.com/lmxyjy/blogs/issues/19)
+
 ## 其他
 [macos终端美化](https://github.com/lmxyjy/blogs/issues/18)
 
