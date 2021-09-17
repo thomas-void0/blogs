@@ -1,4 +1,4 @@
-# my blog
+# 个人博客
 
 ## javaScript:
 [Object.is与===](https://github.com/lmxyjy/blogs/issues/6)
