@@ -22,7 +22,7 @@
 
 [使用Recoil管理项目状态](https://github.com/lmxyjy/blogs/issues/15)
 
-[context性能优化](https://github.com/lmxyjy/blogs/issues/21)
+[使用props.children和直接使用子组件有何不同](https://github.com/lmxyjy/blogs/issues/21)
 
 ## 算法记录 & 数据结构
 [冒泡排序](https://github.com/lmxyjy/blogs/issues/7)
