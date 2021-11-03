@@ -14,6 +14,11 @@
 [关于类型兼容](https://github.com/lmxyjy/blogs/issues/4)
 
 ## react:
+
+### 核心系列：
+[ReactElement对象](https://github.com/lmxyjy/blogs/issues/23)
+
+### 其他：
 [关于CreateElement](https://github.com/lmxyjy/blogs/issues/5)
 
 [关于beginWork的主要流程](https://github.com/lmxyjy/blogs/issues/8)
@@ -49,6 +54,6 @@
 ## css
 [一个div放多张背景图](https://github.com/lmxyjy/blogs/issues/19)
 
-## 其他
+## 杂项
 [macos终端美化](https://github.com/lmxyjy/blogs/issues/18)
 
