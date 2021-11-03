@@ -15,7 +15,7 @@
 
 ## react:
 
-### 核心系列：
+### 核心：
 [ReactElement对象](https://github.com/lmxyjy/blogs/issues/23)
 
 [Fiber对象](https://github.com/lmxyjy/blogs/issues/24)
