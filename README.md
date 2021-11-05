@@ -15,10 +15,12 @@
 
 ## react:
 
-### 核心：
+### 核心对象：
 [ReactElement对象](https://github.com/lmxyjy/blogs/issues/23)
 
 [Fiber对象](https://github.com/lmxyjy/blogs/issues/24)
+
+[Update和UpdateQueue对象](https://github.com/lmxyjy/blogs/issues/22)
 
 ### 其他：
 [关于CreateElement](https://github.com/lmxyjy/blogs/issues/5)
