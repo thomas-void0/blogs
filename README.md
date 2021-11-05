@@ -27,11 +27,11 @@
 [Task对象](https://github.com/lmxyjy/blogs/issues/26)
 
 ### 其他：
-[关于CreateElement](https://github.com/lmxyjy/blogs/issues/5)
+<!-- [关于CreateElement](https://github.com/lmxyjy/blogs/issues/5)
 
 [关于beginWork的主要流程](https://github.com/lmxyjy/blogs/issues/8)
 
-[关于completeWork的主要流程](https://github.com/lmxyjy/blogs/issues/13)
+[关于completeWork的主要流程](https://github.com/lmxyjy/blogs/issues/13) -->
 
 [使用Recoil管理项目状态](https://github.com/lmxyjy/blogs/issues/15)
 
