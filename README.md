@@ -24,6 +24,8 @@
 
 [Hook对象](https://github.com/lmxyjy/blogs/issues/25)
 
+[Task对象](https://github.com/lmxyjy/blogs/issues/26)
+
 ### 其他：
 [关于CreateElement](https://github.com/lmxyjy/blogs/issues/5)
 
