@@ -26,6 +26,10 @@
 
 [Task对象](https://github.com/lmxyjy/blogs/issues/26)
 
+### 核心模块：
+
+[reconciler运作流程](https://github.com/lmxyjy/blogs/issues/27)
+
 ### 其他：
 <!-- [关于CreateElement](https://github.com/lmxyjy/blogs/issues/5)
 
