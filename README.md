@@ -34,14 +34,24 @@
 <!-- [关于CreateElement](https://github.com/lmxyjy/blogs/issues/5)
 
 [关于beginWork的主要流程](https://github.com/lmxyjy/blogs/issues/8)
-
-[关于completeWork的主要流程](https://github.com/lmxyjy/blogs/issues/13) -->
+ -->
 
 [使用Recoil管理项目状态](https://github.com/lmxyjy/blogs/issues/15)
 
 [使用props.children vs 使用子组件](https://github.com/lmxyjy/blogs/issues/21)
 
 ## 算法记录 & 数据结构
+
+### 链表
+
+[反转链表](https://github.com/lmxyjy/blogs/issues/13)
+
+### 堆
+
+[堆的基本概念&模拟实现](https://github.com/lmxyjy/blogs/issues/12)
+
+### 排序
+
 [冒泡排序](https://github.com/lmxyjy/blogs/issues/7)
 
 [选择排序](https://github.com/lmxyjy/blogs/issues/9)
@@ -50,7 +60,7 @@
 
 [堆排序](https://github.com/lmxyjy/blogs/issues/11)
 
-[堆的基本概念&模拟实现](https://github.com/lmxyjy/blogs/issues/12)
+### 其他
 
 [查看更多...](https://github.com/lmxyjy/algorithm)
 
