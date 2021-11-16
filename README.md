@@ -75,6 +75,8 @@
 
 [git add 文件被删除后如何恢复](https://github.com/lmxyjy/blogs/issues/20)
 
+[git升级后推送代码，提示无权限](https://github.com/lmxyjy/blogs/issues/28)
+
 ## css
 [一个div放多张背景图](https://github.com/lmxyjy/blogs/issues/19)
 
