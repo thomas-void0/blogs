@@ -46,6 +46,8 @@
 
 [反转链表](https://github.com/lmxyjy/blogs/issues/13)
 
+[链表中环的检测](https://github.com/lmxyjy/blogs/issues/8)
+
 ### 堆
 
 [堆的基本概念&模拟实现](https://github.com/lmxyjy/blogs/issues/12)
