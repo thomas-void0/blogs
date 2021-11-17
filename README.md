@@ -45,6 +45,8 @@
 
 [链表中环的检测](https://github.com/lmxyjy/blogs/issues/8)
 
+[两个有序的链表合并](https://github.com/lmxyjy/blogs/issues/29)
+
 ### 堆
 
 [堆的基本概念&模拟实现](https://github.com/lmxyjy/blogs/issues/12)
