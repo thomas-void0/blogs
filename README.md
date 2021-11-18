@@ -49,6 +49,8 @@
 
 [删除链表的倒数第 N 个结点](https://github.com/lmxyjy/blogs/issues/30)
 
+[链表的中间结点](https://github.com/lmxyjy/blogs/issues/31)
+
 ### 堆
 
 [堆的基本概念&模拟实现](https://github.com/lmxyjy/blogs/issues/12)
