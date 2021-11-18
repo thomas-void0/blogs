@@ -47,6 +47,8 @@
 
 [两个有序的链表合并](https://github.com/lmxyjy/blogs/issues/29)
 
+[删除链表节点](https://github.com/lmxyjy/blogs/issues/30)
+
 ### 堆
 
 [堆的基本概念&模拟实现](https://github.com/lmxyjy/blogs/issues/12)
