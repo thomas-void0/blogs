@@ -47,7 +47,7 @@
 
 [两个有序的链表合并](https://github.com/lmxyjy/blogs/issues/29)
 
-[删除链表节点](https://github.com/lmxyjy/blogs/issues/30)
+[删除链表的倒数第 N 个结点](https://github.com/lmxyjy/blogs/issues/30)
 
 ### 堆
 
