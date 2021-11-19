@@ -1,6 +1,9 @@
 # 个人博客
 
 ## javaScript:
+
+手写实现promise A+
+
 [Object.is与===](https://github.com/lmxyjy/blogs/issues/6)
 
 ## typescript:
