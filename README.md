@@ -51,8 +51,6 @@
 
 [链表的中间结点](https://github.com/lmxyjy/blogs/issues/31)
 
-### 栈
-
 ### 堆
 
 [堆的基本概念&模拟实现](https://github.com/lmxyjy/blogs/issues/12)
