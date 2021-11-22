@@ -62,9 +62,9 @@
 
 [冒泡排序](https://github.com/lmxyjy/blogs/issues/7)
 
-[选择排序](https://github.com/lmxyjy/blogs/issues/9)
-
 [插入排序](https://github.com/lmxyjy/blogs/issues/10)
+
+[选择排序](https://github.com/lmxyjy/blogs/issues/9)
 
 [堆排序](https://github.com/lmxyjy/blogs/issues/11)
 
