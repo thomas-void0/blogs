@@ -1,12 +1,12 @@
 # 个人博客
 
-## javaScript:
+## ![image](https://user-images.githubusercontent.com/48620706/143002832-f73c80fb-4984-409b-8d5c-64621dfb17d9.png) javaScript
 
 手写实现promise A+
 
 [Object.is与===](https://github.com/lmxyjy/blogs/issues/6)
 
-## typescript:
+## ![image](https://user-images.githubusercontent.com/48620706/143003031-f4314d0a-b853-4deb-b1c4-7fe880fd197d.png) typeScript
 
 [tsconfig.json 文件配置速查表](https://github.com/lmxyjy/blogs/issues/1)
 
@@ -16,7 +16,7 @@
 
 [关于类型兼容](https://github.com/lmxyjy/blogs/issues/4)
 
-## react:
+## ![image](https://user-images.githubusercontent.com/48620706/143003166-191f68f7-4a97-4d9d-a7aa-aae326d0cdbf.png) react
 
 ### 核心对象：
 [ReactElement对象](https://github.com/lmxyjy/blogs/issues/23)
@@ -45,7 +45,7 @@
 
 [scheduler实现](https://github.com/lmxyjy/blogs/issues/35)
 
-## 算法记录 & 数据结构
+## ![image](https://user-images.githubusercontent.com/48620706/143003446-e7d57165-9f92-44d4-80b9-7c437678c99a.png) 算法 && 数据结构
 
 ### 链表
 
@@ -81,7 +81,8 @@
 
 [查看更多...](https://github.com/lmxyjy/algorithm)
 
-## 问题记录
+## ![image](https://user-images.githubusercontent.com/48620706/143003564-9a84cb32-d767-4f62-ab8b-e041d820205f.png) 问题记录
+
 [解决图片加载403](https://github.com/lmxyjy/blogs/issues/14)
 
 [yarn start启动项目报错events.js 292](https://github.com/lmxyjy/blogs/issues/16)
@@ -92,7 +93,7 @@
 
 [git升级后推送代码，提示无权限](https://github.com/lmxyjy/blogs/issues/28)
 
-## css
+## ![image](https://user-images.githubusercontent.com/48620706/143004087-13da6c45-4b54-443a-9845-8803d9b98f58.png) css
 [一个div放多张背景图](https://github.com/lmxyjy/blogs/issues/19)
 
 ## 杂项
