@@ -68,6 +68,8 @@
 
 [归并排序](https://github.com/lmxyjy/blogs/issues/33)
 
+[快速排序](https://github.com/lmxyjy/blogs/issues/34)
+
 [堆排序](https://github.com/lmxyjy/blogs/issues/11)
 
 ### 其他
