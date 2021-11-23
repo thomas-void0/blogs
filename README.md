@@ -34,11 +34,16 @@
 [reconciler运作流程](https://github.com/lmxyjy/blogs/issues/27)
 
 ### 其他：
+
 [关于CreateElement](https://github.com/lmxyjy/blogs/issues/5)
 
 [使用Recoil管理项目状态](https://github.com/lmxyjy/blogs/issues/15)
 
 [使用props.children vs 使用子组件](https://github.com/lmxyjy/blogs/issues/21)
+
+### 实现系列：
+
+[scheduler实现](https://github.com/lmxyjy/blogs/issues/35)
 
 ## 算法记录 & 数据结构
 
