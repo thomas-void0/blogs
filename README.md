@@ -18,7 +18,6 @@
 
 ## ![icons8-react-native-24](https://user-images.githubusercontent.com/48620706/143153711-52e8b6fc-2de4-45cf-bcde-204583fa789f.png) react
 
-### 核心对象：
 [ReactElement对象](https://github.com/lmxyjy/blogs/issues/23)
 
 [Fiber对象](https://github.com/lmxyjy/blogs/issues/24)
@@ -29,11 +28,7 @@
 
 [Task对象](https://github.com/lmxyjy/blogs/issues/26)
 
-### 核心模块：
-
 [reconciler运作流程](https://github.com/lmxyjy/blogs/issues/27)
-
-### 其他：
 
 [关于CreateElement](https://github.com/lmxyjy/blogs/issues/5)
 
@@ -41,13 +36,9 @@
 
 [使用props.children vs 使用子组件](https://github.com/lmxyjy/blogs/issues/21)
 
-### 实现系列：
-
 [scheduler实现](https://github.com/lmxyjy/blogs/issues/35)
 
 ## ![icons8-树状结构-24](https://user-images.githubusercontent.com/48620706/143154581-5c41d553-df72-4f4f-8ec7-fad6f1da1cc1.png) 算法 && 数据结构
-
-### 链表
 
 [反转链表](https://github.com/lmxyjy/blogs/issues/13)
 
@@ -59,11 +50,7 @@
 
 [链表的中间结点](https://github.com/lmxyjy/blogs/issues/31)
 
-### 堆
-
 [堆的基本概念&模拟实现](https://github.com/lmxyjy/blogs/issues/12)
-
-### 排序
 
 [冒泡排序](https://github.com/lmxyjy/blogs/issues/7)
 
@@ -76,8 +63,6 @@
 [快速排序](https://github.com/lmxyjy/blogs/issues/34)
 
 [堆排序](https://github.com/lmxyjy/blogs/issues/11)
-
-### 更多
 
 [查看更多...](https://github.com/lmxyjy/algorithm)
 
