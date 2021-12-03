@@ -82,6 +82,8 @@
 
 [一个div放多张背景图](https://github.com/lmxyjy/blogs/issues/19)
 
+[flex填充剩余空间](https://github.com/lmxyjy/blogs/issues/36)
+
 ## ![icons8-窗户其他-24](https://user-images.githubusercontent.com/48620706/143155374-d00a91b5-c56a-4805-9ee6-0c9d2a50a247.png) 其他
 
 [macos终端美化](https://github.com/lmxyjy/blogs/issues/18)
