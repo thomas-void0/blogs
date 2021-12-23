@@ -82,6 +82,8 @@
 
 [postcss 转换单位的时候，不转换引入的less变量](https://github.com/lmxyjy/blogs/issues/38)
 
+[webpack项目部署后，控制台报错 Uncaught ReferenceError: process is not defined](https://github.com/lmxyjy/blogs/issues/39)
+
 ## ![icons8-css3-24](https://user-images.githubusercontent.com/48620706/143154472-d6e038d1-56c5-47d5-865c-4519b9eeeb24.png) css
 
 [一个div放多张背景图](https://github.com/lmxyjy/blogs/issues/19)
