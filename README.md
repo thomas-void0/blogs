@@ -94,3 +94,4 @@
 
 [macos终端美化](https://github.com/lmxyjy/blogs/issues/18)
 
+[nginx配置代理说明](https://github.com/lmxyjy/blogs/issues/40)
