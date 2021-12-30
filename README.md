@@ -84,6 +84,8 @@
 
 [webpack项目部署后，控制台报错 Uncaught ReferenceError: process is not defined](https://github.com/lmxyjy/blogs/issues/39)
 
+[微信自定义转发，在开发者工具中可以正常转发。但是真机只能转发链接](https://github.com/lmxyjy/blogs/issues/41)
+
 ## ![icons8-css3-24](https://user-images.githubusercontent.com/48620706/143154472-d6e038d1-56c5-47d5-865c-4519b9eeeb24.png) css
 
 [一个div放多张背景图](https://github.com/lmxyjy/blogs/issues/19)
