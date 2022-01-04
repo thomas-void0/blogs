@@ -101,3 +101,5 @@
 [nginx配置代理说明](https://github.com/lmxyjy/blogs/issues/40)
 
 [如何通过webpack，配置环境变量NODE_ENV](https://github.com/lmxyjy/blogs/issues/42)
+
+[移动端阻止浏览器页面缩放](https://github.com/lmxyjy/blogs/issues/44)
