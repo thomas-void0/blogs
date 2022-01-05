@@ -92,6 +92,8 @@
 
 [微信h5网页，安卓可以自定义分享成功，但是ios不行](https://github.com/lmxyjy/blogs/issues/43)
 
+[解决移动端滑动出现橡皮筋效果（上下露底）](https://github.com/lmxyjy/blogs/issues/46)
+
 ## ![icons8-css3-24](https://user-images.githubusercontent.com/48620706/143154472-d6e038d1-56c5-47d5-865c-4519b9eeeb24.png) css
 
 [一个div放多张背景图](https://github.com/lmxyjy/blogs/issues/19)
