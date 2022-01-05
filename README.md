@@ -40,6 +40,7 @@
 
 ## ![icons8-vue-js-24](https://user-images.githubusercontent.com/48620706/148155744-bc60732c-f9e5-452e-9dd4-97d20fc03104.png) Vue
 
+[vue动态计算元素高度，展示不同ui](https://github.com/lmxyjy/blogs/issues/45)
 
 ## ![icons8-树状结构-24](https://user-images.githubusercontent.com/48620706/143154581-5c41d553-df72-4f4f-8ec7-fad6f1da1cc1.png) 算法 && 数据结构
 
