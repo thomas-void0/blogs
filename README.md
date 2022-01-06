@@ -94,6 +94,8 @@
 
 [解决移动端滑动出现橡皮筋效果（上下露底）](https://github.com/lmxyjy/blogs/issues/46)
 
+[eslint 报错：AssertionError [ERR_ASSERTION]: Node must be provided when reporting error if location is not provided](https://github.com/lmxyjy/blogs/issues/47)
+
 ## ![icons8-css3-24](https://user-images.githubusercontent.com/48620706/143154472-d6e038d1-56c5-47d5-865c-4519b9eeeb24.png) css
 
 [一个div放多张背景图](https://github.com/lmxyjy/blogs/issues/19)
