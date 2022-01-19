@@ -2,7 +2,7 @@
 
 ## ![icons8-javascript-24](https://user-images.githubusercontent.com/48620706/143153924-80f68a81-416e-4810-b9f7-8a96ec6bfd3c.png) javaScript
 
-手写实现promise A+
+<!-- 手写实现promise A+ -->
 
 [Object.is与===](https://github.com/lmxyjy/blogs/issues/6)
 
@@ -111,3 +111,5 @@
 [如何通过webpack，配置环境变量NODE_ENV](https://github.com/lmxyjy/blogs/issues/42)
 
 [移动端阻止浏览器页面缩放](https://github.com/lmxyjy/blogs/issues/44)
+
+[commit提交检测配置](https://github.com/lmxyjy/blogs/issues/48)
