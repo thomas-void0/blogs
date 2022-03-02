@@ -102,7 +102,7 @@
 
 [flex填充剩余空间](https://github.com/lmxyjy/blogs/issues/36)
 
-## ![icons8-网络通信-24](https://user-images.githubusercontent.com/48620706/156319973-67098a92-7c9e-4fcd-9632-d20adb23e893.png) 网络通信
+## ![icons8-网络通信-24](https://user-images.githubusercontent.com/48620706/156320120-554cd369-9f7a-4205-8749-152220a9feb4.png) 网络通信
 
 [http头部字段概览](https://github.com/lmxyjy/blogs/issues/49)
 
