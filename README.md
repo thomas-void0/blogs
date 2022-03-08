@@ -102,6 +102,8 @@
 
 [flex填充剩余空间](https://github.com/lmxyjy/blogs/issues/36)
 
+[flex导致的盒子塌陷问题修复](https://github.com/lmxyjy/blogs/issues/50)
+
 ## ![icons8-网络通信-24](https://user-images.githubusercontent.com/48620706/156320120-554cd369-9f7a-4205-8749-152220a9feb4.png) 网络通信
 
 [http头部字段概览](https://github.com/lmxyjy/blogs/issues/49)
