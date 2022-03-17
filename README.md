@@ -80,7 +80,7 @@
 
 [git add 文件被删除后如何恢复](https://github.com/lmxyjy/blogs/issues/20)
 
-[git升级后推送代码，提示无权限](https://github.com/lmxyjy/blogs/issues/28)
+[git推送代码，提示无权限47.98.49.44 port 22: ](https://github.com/lmxyjy/blogs/issues/28)
 
 [react项目报错 Uncaught ReferenceError: regeneratorRuntime is not defined](https://github.com/lmxyjy/blogs/issues/37)
 
