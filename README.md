@@ -42,6 +42,14 @@
 
 [vue动态计算元素高度，展示不同ui](https://github.com/lmxyjy/blogs/issues/45)
 
+## ![icons8-css3-24](https://user-images.githubusercontent.com/48620706/143154472-d6e038d1-56c5-47d5-865c-4519b9eeeb24.png) css
+
+[一个div放多张背景图](https://github.com/lmxyjy/blogs/issues/19)
+
+[flex填充剩余空间](https://github.com/lmxyjy/blogs/issues/36)
+
+[flex导致的盒子塌陷问题修复](https://github.com/lmxyjy/blogs/issues/50)
+
 ## ![icons8-树状结构-24](https://user-images.githubusercontent.com/48620706/143154581-5c41d553-df72-4f4f-8ec7-fad6f1da1cc1.png) 算法 && 数据结构
 
 [反转链表](https://github.com/lmxyjy/blogs/issues/13)
@@ -69,14 +77,6 @@
 [堆排序](https://github.com/lmxyjy/blogs/issues/11)
 
 [查看更多...](https://github.com/lmxyjy/algorithm)
-
-## ![icons8-css3-24](https://user-images.githubusercontent.com/48620706/143154472-d6e038d1-56c5-47d5-865c-4519b9eeeb24.png) css
-
-[一个div放多张背景图](https://github.com/lmxyjy/blogs/issues/19)
-
-[flex填充剩余空间](https://github.com/lmxyjy/blogs/issues/36)
-
-[flex导致的盒子塌陷问题修复](https://github.com/lmxyjy/blogs/issues/50)
 
 ## ![icons8-常问问题-24](https://user-images.githubusercontent.com/48620706/143154223-e63f33c4-d3b1-486d-9e5e-7bfd66f73e97.png) 问题记录
 
