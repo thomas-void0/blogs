@@ -70,6 +70,14 @@
 
 [查看更多...](https://github.com/lmxyjy/algorithm)
 
+## ![icons8-css3-24](https://user-images.githubusercontent.com/48620706/143154472-d6e038d1-56c5-47d5-865c-4519b9eeeb24.png) css
+
+[一个div放多张背景图](https://github.com/lmxyjy/blogs/issues/19)
+
+[flex填充剩余空间](https://github.com/lmxyjy/blogs/issues/36)
+
+[flex导致的盒子塌陷问题修复](https://github.com/lmxyjy/blogs/issues/50)
+
 ## ![icons8-常问问题-24](https://user-images.githubusercontent.com/48620706/143154223-e63f33c4-d3b1-486d-9e5e-7bfd66f73e97.png) 问题记录
 
 [解决图片加载403](https://github.com/lmxyjy/blogs/issues/14)
@@ -95,14 +103,6 @@
 [解决移动端滑动出现橡皮筋效果（上下露底）](https://github.com/lmxyjy/blogs/issues/46)
 
 [eslint 报错：AssertionError [ERR_ASSERTION]: Node must be provided when reporting error if location is not provided](https://github.com/lmxyjy/blogs/issues/47)
-
-## ![icons8-css3-24](https://user-images.githubusercontent.com/48620706/143154472-d6e038d1-56c5-47d5-865c-4519b9eeeb24.png) css
-
-[一个div放多张背景图](https://github.com/lmxyjy/blogs/issues/19)
-
-[flex填充剩余空间](https://github.com/lmxyjy/blogs/issues/36)
-
-[flex导致的盒子塌陷问题修复](https://github.com/lmxyjy/blogs/issues/50)
 
 <!-- ## ![icons8-网络通信-24](https://user-images.githubusercontent.com/48620706/156320120-554cd369-9f7a-4205-8749-152220a9feb4.png) 网络通信
 
