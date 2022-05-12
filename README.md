@@ -89,6 +89,9 @@
 [关于vite打包报错的思考](https://github.com/lmxyjy/blogs/issues/54)
 
 ## webpack
+
+[yarn start启动项目报错events.js 292](https://github.com/lmxyjy/blogs/issues/16)
+
 [如何通过webpack，配置环境变量NODE_ENV](https://github.com/lmxyjy/blogs/issues/42)
 
 [webpack项目部署后，控制台报错 Uncaught ReferenceError: process is not defined](https://github.com/lmxyjy/blogs/issues/39)
@@ -117,24 +120,16 @@
 
 [postcss 转换单位的时候，不转换引入的less变量](https://github.com/lmxyjy/blogs/issues/38)
 
-## 问题
-
-[解决图片加载403](https://github.com/lmxyjy/blogs/issues/14)
-
-[yarn start启动项目报错events.js 292](https://github.com/lmxyjy/blogs/issues/16)
-
-[macos安装brew报错443](https://github.com/lmxyjy/blogs/issues/17)
+## 组件库
 
 [antd Table分页失效问题记录](https://github.com/lmxyjy/blogs/issues/55)
 
 ## 其他
 
+[macos安装brew报错443](https://github.com/lmxyjy/blogs/issues/17)
+
 [macos终端美化](https://github.com/lmxyjy/blogs/issues/18)
 
 [nginx配置代理说明](https://github.com/lmxyjy/blogs/issues/40)
 
-
-
-
-
-
+[解决图片加载403](https://github.com/lmxyjy/blogs/issues/14)
