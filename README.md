@@ -123,6 +123,7 @@
 ## 组件库
 
 [antd Table分页失效问题记录](https://github.com/lmxyjy/blogs/issues/55)
+[antd popover组件，保持组件非受控的同时，能够操作其显示和隐藏](https://github.com/lmxyjy/blogs/issues/57)
 
 ## 其他
 
