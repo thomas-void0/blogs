@@ -132,4 +132,6 @@
 
 [nginx配置代理说明](https://github.com/lmxyjy/blogs/issues/40)
 
+[项目构建后，再测试上访问接口报错404](https://github.com/lmxyjy/blogs/issues/56)
+
 [解决图片加载403](https://github.com/lmxyjy/blogs/issues/14)
