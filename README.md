@@ -36,6 +36,8 @@
 
 [scheduler实现](https://github.com/lmxyjy/blogs/issues/35)
 
+[react任务调度原理mini实现](https://github.com/lmxyjy/blogs/issues/58)
+
 [react项目报错 Uncaught ReferenceError: regeneratorRuntime is not defined](https://github.com/lmxyjy/blogs/issues/37)
 
 ## Vue
