@@ -1,5 +1,3 @@
-# 杂记
-
 ## javaScript
 
 <!-- 手写实现promise A+ -->
