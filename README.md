@@ -106,6 +106,8 @@
 
 [eslint 报错：AssertionError [ERR_ASSERTION]: Node must be provided when reporting error if location is not provided](https://github.com/lmxyjy/blogs/issues/47)
 
+[如何解决ssh: connect to host github.com port 22: Connection timed out](https://github.com/lmxyjy/blogs/issues/59)
+
 ## 微信开发
 
 [微信自定义转发，在开发者工具中可以正常转发。但是真机只能转发链接](https://github.com/lmxyjy/blogs/issues/41)
