@@ -14,6 +14,9 @@
 
 [关于类型兼容](https://github.com/lmxyjy/blogs/issues/4)
 
+## node
+[使用nvm管理node版本](https://github.com/lmxyjy/blogs/issues/60)
+
 ## react
 
 [ReactElement对象](https://github.com/lmxyjy/blogs/issues/23)
