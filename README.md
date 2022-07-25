@@ -17,7 +17,9 @@
 ## node
 [使用nvm管理node版本](https://github.com/lmxyjy/blogs/issues/60)
 
-## linux
+## 服务器
+[云服务器连接][centos升级](https://github.com/lmxyjy/blogs/issues/61)
+
 [centos升级](https://github.com/lmxyjy/blogs/issues/62)
 
 ## react
