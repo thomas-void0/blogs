@@ -4,7 +4,7 @@
 
 [Object.is与===](https://github.com/lmxyjy/blogs/issues/6)
 
-## typeScript
+## typeScript  
 
 [tsconfig.json 文件配置速查表](https://github.com/lmxyjy/blogs/issues/1)
 
@@ -150,4 +150,4 @@
 
 [vscode git发生冲突，没有显示合并操作](https://github.com/lmxyjy/blogs/issues/63)
 
-[vscode 终端无法输入中文](https://github.com/lmxyjy/blogs/issues/64)
+[vscode 终端无法输入中文](https://github.com/lmxyjy/blogs/issues/64) 
