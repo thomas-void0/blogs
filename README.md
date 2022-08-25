@@ -5,7 +5,7 @@
 [Object.is与===](https://github.com/lmxyjy/blogs/issues/6)
 
 ## typeScript  
-
+  
 [tsconfig.json 文件配置速查表](https://github.com/lmxyjy/blogs/issues/1)
 
 [如何判断 2 个类型是否相等](https://github.com/lmxyjy/blogs/issues/2)
@@ -151,5 +151,5 @@
 [解决图片加载403](https://github.com/lmxyjy/blogs/issues/14)
 
 [vscode git发生冲突，没有显示合并操作](https://github.com/lmxyjy/blogs/issues/63)
-
+ 
 [vscode 终端无法输入中文](https://github.com/lmxyjy/blogs/issues/64) 
