@@ -5,7 +5,7 @@
 [Object.is与===](https://github.com/lmxyjy/blogs/issues/6)
 
 ## typeScript  
-  
+   
 [tsconfig.json 文件配置速查表](https://github.com/lmxyjy/blogs/issues/1)
 
 [如何判断 2 个类型是否相等](https://github.com/lmxyjy/blogs/issues/2)
