@@ -14,6 +14,8 @@
 
 [关于类型兼容](https://github.com/lmxyjy/blogs/issues/4)
 
+[*.d.ts导入import其它类型导致全局类型失效问题](https://github.com/lmxyjy/blogs/issues/66)
+
 ## node
 [使用nvm管理node版本](https://github.com/lmxyjy/blogs/issues/60)
 
