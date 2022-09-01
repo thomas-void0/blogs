@@ -120,6 +120,8 @@
 
 [如何解决ssh: connect to host github.com port 22: Connection timed out](https://github.com/lmxyjy/blogs/issues/59)
 
+[git pull报错error: cannot lock ref ‘refs/remotes/origin/xxx‘:ref](https://github.com/lmxyjy/blogs/issues/67)
+
 ## 微信开发
 
 [微信自定义转发，在开发者工具中可以正常转发。但是真机只能转发链接](https://github.com/lmxyjy/blogs/issues/41)
