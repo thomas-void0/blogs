@@ -122,6 +122,8 @@
 
 [git pull报错error: cannot lock ref ‘refs/remotes/origin/xxx‘:ref](https://github.com/lmxyjy/blogs/issues/67)
 
+[fatal: cannot lock ref 'refs/heads/fix/xx': 'refs/heads/fix/xx' exists; cannot create 'refs/heads/fix/xx/xx'](https://github.com/lmxyjy/blogs/issues/68)
+
 ## 微信开发
 
 [微信自定义转发，在开发者工具中可以正常转发。但是真机只能转发链接](https://github.com/lmxyjy/blogs/issues/41)
