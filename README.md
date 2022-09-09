@@ -64,6 +64,8 @@
 
 [css画三角形](https://github.com/lmxyjy/blogs/issues/65)
 
+[动态修改svg图片颜色](https://github.com/lmxyjy/blogs/issues/69)
+
 ## 算法 && 数据结构
 
 [反转链表](https://github.com/lmxyjy/blogs/issues/13)
