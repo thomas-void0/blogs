@@ -9,7 +9,7 @@
 [tsconfig.json 文件配置速查表](https://github.com/lmxyjy/blogs/issues/1)
 
 [如何判断 2 个类型是否相等](https://github.com/lmxyjy/blogs/issues/2)
-
+ 
 [联合类型如何转交叉类型](https://github.com/lmxyjy/blogs/issues/3)
 
 [关于类型兼容](https://github.com/lmxyjy/blogs/issues/4)
