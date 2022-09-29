@@ -19,6 +19,8 @@
 ## node
 [使用nvm管理node版本](https://github.com/lmxyjy/blogs/issues/60)
 
+[打包内存溢出处理方法](https://github.com/lmxyjy/blogs/issues/72)
+
 ## 服务器
 [云服务器连接](https://github.com/lmxyjy/blogs/issues/61)
 
