@@ -106,6 +106,8 @@
 
 [关于vite打包报错的思考](https://github.com/lmxyjy/blogs/issues/54)
 
+[vite打包@antv/data-set报错 TypeError: Cannot read properties of undefined (reading 'Graph')](https://github.com/lmxyjy/blogs/issues/73)
+
 ## webpack
 
 [yarn start启动项目报错events.js 292](https://github.com/lmxyjy/blogs/issues/16)
