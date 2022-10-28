@@ -116,6 +116,8 @@
 
 [webpack项目部署后，控制台报错 Uncaught ReferenceError: process is not defined](https://github.com/lmxyjy/blogs/issues/39)
 
+[webpack5.x 修改样式文件无法热更新](https://github.com/lmxyjy/blogs/issues/74)
+
 ## rollup
 
 [rollup中一段ast节点遍历逻辑](https://github.com/lmxyjy/blogs/issues/71)
