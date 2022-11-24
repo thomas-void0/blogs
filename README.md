@@ -70,6 +70,8 @@
 
 [动态修改svg图片颜色](https://github.com/lmxyjy/blogs/issues/69)
 
+[css骨架屏动画效果](https://github.com/lmxyjy/blogs/issues/76)
+
 ## 算法 && 数据结构
 
 [反转链表](https://github.com/lmxyjy/blogs/issues/13)
