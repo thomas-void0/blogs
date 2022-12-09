@@ -28,6 +28,8 @@
 
 ## react
 
+[一个可以在条件满足情况下运行hook的hack实现](https://github.com/lmxyjy/blogs/issues/77)
+
 [ReactElement对象](https://github.com/lmxyjy/blogs/issues/23)
 
 [Fiber对象](https://github.com/lmxyjy/blogs/issues/24)
