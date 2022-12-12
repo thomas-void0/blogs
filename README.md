@@ -56,6 +56,8 @@
 
 [报错：Uncaught Error: Rendered fewer hooks than expected. This may be caused by an accidental early ret...](https://github.com/lmxyjy/blogs/issues/70)
 
+[抛物线动画，可用于购物车加入](https://github.com/lmxyjy/blogs/issues/78)
+
 ## Vue
 
 [vue动态计算元素高度，展示不同ui](https://github.com/lmxyjy/blogs/issues/45)
