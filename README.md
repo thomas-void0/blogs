@@ -76,6 +76,8 @@
 
 [css骨架屏动画效果](https://github.com/lmxyjy/blogs/issues/76)
 
+[记录一次 tailwindcss配置不生效问题](https://github.com/lmxyjy/blogs/issues/79)
+
 ## 算法 && 数据结构
 
 [反转链表](https://github.com/lmxyjy/blogs/issues/13)
