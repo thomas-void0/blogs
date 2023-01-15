@@ -183,3 +183,5 @@
 [vscode 终端无法输入中文](https://github.com/lmxyjy/blogs/issues/64) 
 
 [【npm】Error: Unable to download sentry-cli binary from https://downloads.sentry-cdn.com/sentry-cli/1.63.1/](https://github.com/lmxyjy/blogs/issues/75) 
+
+[github文件夹显示白色箭头，无法打开](https://github.com/lmxyjy/blogs/issues/80) 
