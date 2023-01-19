@@ -26,6 +26,8 @@
 
 [centos升级](https://github.com/lmxyjy/blogs/issues/62)
 
+[虚拟机IP地址查询](https://github.com/lmxyjy/blogs/issues/81)
+
 ## react
 
 [一个可以在条件满足情况下运行hook的hack实现](https://github.com/lmxyjy/blogs/issues/77)
