@@ -16,18 +16,6 @@
 
 [*.d.ts导入import其它类型导致全局类型失效问题](https://github.com/lmxyjy/blogs/issues/66)
 
-## node
-[使用nvm管理node版本](https://github.com/lmxyjy/blogs/issues/60)
-
-[打包内存溢出处理方法](https://github.com/lmxyjy/blogs/issues/72)
-
-## 服务器
-[云服务器连接](https://github.com/lmxyjy/blogs/issues/61)
-
-[centos升级](https://github.com/lmxyjy/blogs/issues/62)
-
-[虚拟机IP地址查询](https://github.com/lmxyjy/blogs/issues/81)
-
 ## react
 
 [一个可以在条件满足情况下运行hook的hack实现](https://github.com/lmxyjy/blogs/issues/77)
@@ -63,6 +51,20 @@
 ## Vue
 
 [vue动态计算元素高度，展示不同ui](https://github.com/lmxyjy/blogs/issues/45)
+
+## node
+[使用nvm管理node版本](https://github.com/lmxyjy/blogs/issues/60)
+
+[打包内存溢出处理方法](https://github.com/lmxyjy/blogs/issues/72)
+
+## 服务器
+[云服务器连接](https://github.com/lmxyjy/blogs/issues/61)
+
+[centos升级](https://github.com/lmxyjy/blogs/issues/62)
+
+[虚拟机IP地址查询](https://github.com/lmxyjy/blogs/issues/81)
+
+## docker
 
 ## css
 
