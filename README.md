@@ -66,6 +66,8 @@
 
 ## docker
 
+[docker安装](https://github.com/lmxyjy/blogs/issues/82)
+
 ## css
 
 [一个div放多张背景图](https://github.com/lmxyjy/blogs/issues/19)
