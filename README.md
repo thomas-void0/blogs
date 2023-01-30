@@ -191,3 +191,5 @@
 [【npm】Error: Unable to download sentry-cli binary from https://downloads.sentry-cdn.com/sentry-cli/1.63.1/](https://github.com/lmxyjy/blogs/issues/75) 
 
 [github文件夹显示白色箭头，无法打开](https://github.com/lmxyjy/blogs/issues/80) 
+
+[基于cra编写一个安装脚本](https://github.com/lmxyjy/blogs/issues/83) 
