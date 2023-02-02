@@ -76,6 +76,8 @@
 
 [Dockerfile](https://github.com/lmxyjy/blogs/issues/87)
 
+[发布镜像到dockerhub](https://github.com/lmxyjy/blogs/issues/88)
+
 ## css
 
 [一个div放多张背景图](https://github.com/lmxyjy/blogs/issues/19)
