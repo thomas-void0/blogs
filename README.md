@@ -57,6 +57,9 @@
 
 [打包内存溢出处理方法](https://github.com/lmxyjy/blogs/issues/72)
 
+## linux
+[VMware虚拟机Linux动态扩容磁盘空间](https://github.com/lmxyjy/blogs/issues/91)
+
 ## 服务器
 [云服务器连接](https://github.com/lmxyjy/blogs/issues/61)
 
