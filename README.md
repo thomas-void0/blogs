@@ -64,6 +64,8 @@
 
 [linux文件目录权限管理](https://github.com/lmxyjy/blogs/issues/95)
 
+[linux查看文件命令](https://github.com/lmxyjy/blogs/issues/96)
+
 [VMware虚拟机Linux动态扩容磁盘空间](https://github.com/lmxyjy/blogs/issues/91)
 
 [xshell上传文件到服务器](https://github.com/lmxyjy/blogs/issues/92)
