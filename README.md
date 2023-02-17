@@ -58,9 +58,12 @@
 [打包内存溢出处理方法](https://github.com/lmxyjy/blogs/issues/72)
 
 ## linux
+[linux关机指令&文件目录](https://github.com/lmxyjy/blogs/issues/93)
+
 [VMware虚拟机Linux动态扩容磁盘空间](https://github.com/lmxyjy/blogs/issues/91)
 
 [xshell上传文件到服务器](https://github.com/lmxyjy/blogs/issues/92)
+
 
 ## 服务器
 [云服务器连接](https://github.com/lmxyjy/blogs/issues/61)
