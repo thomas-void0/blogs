@@ -60,7 +60,7 @@
 ## linux
 [linux关机指令&文件目录](https://github.com/lmxyjy/blogs/issues/93)
 
-[linux常用命令](https://github.com/lmxyjy/blogs/issues/94)
+[linux文件目录命令](https://github.com/lmxyjy/blogs/issues/94)
 
 [linux文件目录权限管理](https://github.com/lmxyjy/blogs/issues/95)
 
