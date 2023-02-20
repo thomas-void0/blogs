@@ -74,6 +74,8 @@
 
 [linux用户组管理](https://github.com/lmxyjy/blogs/issues/100)
 
+[linux磁盘管理](https://github.com/lmxyjy/blogs/issues/101)
+
 [VMware虚拟机Linux动态扩容磁盘空间](https://github.com/lmxyjy/blogs/issues/91)
 
 [xshell上传文件到服务器](https://github.com/lmxyjy/blogs/issues/92)
