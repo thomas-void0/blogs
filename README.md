@@ -78,6 +78,8 @@
 
 [linux进程管理](https://github.com/lmxyjy/blogs/issues/102)
 
+[防火墙相关操作](https://github.com/lmxyjy/blogs/issues/103)
+
 [VMware虚拟机Linux动态扩容磁盘空间](https://github.com/lmxyjy/blogs/issues/91)
 
 [xshell上传文件到服务器](https://github.com/lmxyjy/blogs/issues/92)
