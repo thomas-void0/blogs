@@ -1,3 +1,5 @@
+## legacy blogs
+https://github.com/thomas-void0/lmxyjy.github.io/tree/master/_posts
 ## javaScript
 
 <!-- 手写实现promise A+ -->
