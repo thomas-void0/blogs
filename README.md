@@ -237,3 +237,5 @@ https://github.com/thomas-void0/lmxyjy.github.io/tree/master/_posts
 [github文件夹显示白色箭头，无法打开](https://github.com/lmxyjy/blogs/issues/80) 
 
 [基于cra编写一个安装脚本](https://github.com/lmxyjy/blogs/issues/83) 
+
+[使用github action实现自动化测试，自动化发布](https://github.com/lmxyjy/blogs/issues/104) 
