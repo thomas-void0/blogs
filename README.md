@@ -239,3 +239,5 @@ https://github.com/thomas-void0/lmxyjy.github.io/tree/master/_posts
 [基于cra编写一个安装脚本](https://github.com/lmxyjy/blogs/issues/83) 
 
 [使用github action实现自动化测试，自动化发布](https://github.com/lmxyjy/blogs/issues/104) 
+
+[github action构建镜像推送到阿里云](https://github.com/lmxyjy/blogs/issues/105) 
