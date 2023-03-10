@@ -59,6 +59,8 @@ https://github.com/thomas-void0/lmxyjy.github.io/tree/master/_posts
 
 [打包内存溢出处理方法](https://github.com/lmxyjy/blogs/issues/72)
 
+[多线程异常处理监控](https://github.com/lmxyjy/blogs/issues/106)
+
 ## linux
 [linux关机指令&文件目录](https://github.com/lmxyjy/blogs/issues/93)
 
