@@ -6,6 +6,10 @@ https://github.com/thomas-void0/lmxyjy.github.io/tree/master/_posts
 
 [Object.is与===](https://github.com/lmxyjy/blogs/issues/6)
 
+## share
+
+[一个前端部署的玩具项目](https://github.com/lmxyjy/blogs/issues/108)
+
 ## typeScript  
    
 [tsconfig.json 文件配置速查表](https://github.com/lmxyjy/blogs/issues/1)
