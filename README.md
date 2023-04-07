@@ -97,6 +97,9 @@ https://github.com/thomas-void0/lmxyjy.github.io/tree/master/_posts
 ## mysql
 [centos7 mysql安装](https://github.com/lmxyjy/blogs/issues/109)
 
+[命令连接数据库](https://github.com/lmxyjy/blogs/issues/110)
+
+
 ## 服务器
 [云服务器连接](https://github.com/lmxyjy/blogs/issues/61)
 
