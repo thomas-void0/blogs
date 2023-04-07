@@ -94,6 +94,8 @@ https://github.com/thomas-void0/lmxyjy.github.io/tree/master/_posts
 
 [xshell上传文件到服务器](https://github.com/lmxyjy/blogs/issues/92)
 
+## mysql
+[centos7 mysql安装](https://github.com/lmxyjy/blogs/issues/109)
 
 ## 服务器
 [云服务器连接](https://github.com/lmxyjy/blogs/issues/61)
