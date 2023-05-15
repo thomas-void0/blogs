@@ -217,7 +217,7 @@ https://github.com/thomas-void0/lmxyjy.github.io/tree/master/_posts
 
 ## 移动端
 
-[移动端阻止浏览器页面缩放](https://github.com/lmxyjy/blogs/issues/44)
+[移动端阻止浏览器页面缩放](https://github.com/lmxyjy/blogs/issues/44) 
 
 [解决移动端滑动出现橡皮筋效果（上下露底）](https://github.com/lmxyjy/blogs/issues/46)
 
