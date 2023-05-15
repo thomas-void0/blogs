@@ -125,6 +125,8 @@ https://github.com/thomas-void0/lmxyjy.github.io/tree/master/_posts
 
 [docker前端部署](https://github.com/lmxyjy/blogs/issues/90)
 
+[pm2 + docker部署node服务](https://github.com/lmxyjy/blogs/issues/111)
+
 ## css
 
 [一个div放多张背景图](https://github.com/lmxyjy/blogs/issues/19)
