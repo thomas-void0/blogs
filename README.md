@@ -217,6 +217,10 @@ https://github.com/thomas-void0/lmxyjy.github.io/tree/master/_posts
 
 [微信h5网页，安卓可以自定义分享成功，但是ios不行](https://github.com/lmxyjy/blogs/issues/43)
 
+## Electron
+
+[electron mac代码签名以及公证](https://github.com/lmxyjy/blogs/issues/112)
+
 ## 移动端
 
 [移动端阻止浏览器页面缩放](https://github.com/lmxyjy/blogs/issues/44) 
