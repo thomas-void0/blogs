@@ -196,6 +196,8 @@ https://github.com/thomas-void0/lmxyjy.github.io/tree/master/_posts
 [rollup中一段ast节点遍历逻辑](https://github.com/lmxyjy/blogs/issues/71)
 
 ## Nest
+[控制器](https://github.com/lmxyjy/blogs/issues/115)
+
 [管道](https://github.com/lmxyjy/blogs/issues/114)
 
 ## 规范化
